@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\Components\\RecipeDetail",
+    "\\src\\Screens",
+    "\\src\\Screens\\CreateRecipe",
+    "\\src\\Screens\\Search"
+  ],
+  "SelectedNode": "\\src\\Screens\\CreateRecipe\\CreateRecipe.tsx",
+  "PreviewInSolutionExplorer": false
+}
